@@ -1,4 +1,4 @@
-$container-width: 1200px;
+$kapsayici-width: 1200px;
 $gutter-width: 20px;
 $mobile-gutter-width: 40px;
 $grid-column: 12;
@@ -7,7 +7,7 @@ $grid-column: 12;
 // GRID SYSTEM
 // ======================================
 
-.container {
+.kapsayici {
 	&,
 	&-fluid {
 		//position: relative;
@@ -37,9 +37,9 @@ $grid-column: 12;
 	//	}
 	//}
 
-	@media (min-width: ($container-width + 0)) {
+	@media (min-width: ($kapsayici-width + 0)) {
 		& {
-			max-width: $container-width;
+			max-width: $kapsayici-width;
 		}
 	}
 
@@ -159,7 +159,7 @@ $grid-column: 12;
 ///* GRID SYSTEM
 //   ====================================== */
 
-//.container {
+//.kapsayici {
 //	&,
 //	&_12,
 //	&-flex,
