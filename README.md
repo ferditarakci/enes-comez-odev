@@ -4,4 +4,4 @@
 <br>
 
 ### Screenshop
-<br><img alt="Enes Çömez - Ödev" src="assets/images/screenshot.png">
+<br><img alt="Enes Çömez - Ödev" src="assets/images/screenshot.jpg">
